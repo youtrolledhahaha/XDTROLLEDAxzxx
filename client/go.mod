@@ -1,4 +1,4 @@
-module github.com/georgiartemis/ascvascvasv/client
+module github.com/youtrolledhahaha/XDTROLLEDAxzxx/client
 
 go 1.18
 

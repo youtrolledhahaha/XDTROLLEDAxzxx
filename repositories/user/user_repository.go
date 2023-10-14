@@ -1,8 +1,8 @@
 package user
 
 import (
-	"github.com/youtrolledhahaha/XDTROLLEDAxzxx/entities"
-	"github.com/youtrolledhahaha/XDTROLLEDAxzxx/repositories"
+	"github.com/tiagorlampert/CHAOS/entities"
+	"github.com/tiagorlampert/CHAOS/repositories"
 	"gorm.io/gorm"
 )
 

@@ -2,7 +2,7 @@ package auth
 
 import (
 	"errors"
-	"github.com/youtrolledhahaha/XDTROLLEDAxzxx/entities"
+	"github.com/tiagorlampert/CHAOS/entities"
 )
 
 var ErrFailedRefreshProvidedSecretKey = errors.New("the secret key provided from environment variable cannot be redefined")

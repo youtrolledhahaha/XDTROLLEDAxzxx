@@ -1,8 +1,8 @@
 package explorer
 
 import (
-	"github.com/youtrolledhahaha/XDTROLLEDAxzxx/client/app/entities"
-	"github.com/youtrolledhahaha/XDTROLLEDAxzxx/client/app/services"
+	"github.com/tiagorlampert/CHAOS/client/app/entities"
+	"github.com/tiagorlampert/CHAOS/client/app/services"
 	"io/ioutil"
 	"os/user"
 )

@@ -1,4 +1,4 @@
-module github.com/youtrolledhahaha/XDTROLLEDAxzxx
+module github.com/georgiartemis/ascvascvasv
 
 go 1.18
 

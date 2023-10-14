@@ -2,10 +2,10 @@ package device
 
 import (
 	"errors"
-	"github.com/tiagorlampert/CHAOS/entities"
-	"github.com/tiagorlampert/CHAOS/internal/utils"
-	"github.com/tiagorlampert/CHAOS/repositories"
-	"github.com/tiagorlampert/CHAOS/repositories/device"
+	"github.com/youtrolledhahaha/XDTROLLEDAxzxx/entities"
+	"github.com/youtrolledhahaha/XDTROLLEDAxzxx/internal/utils"
+	"github.com/youtrolledhahaha/XDTROLLEDAxzxx/repositories"
+	"github.com/youtrolledhahaha/XDTROLLEDAxzxx/repositories/device"
 	"time"
 )
 

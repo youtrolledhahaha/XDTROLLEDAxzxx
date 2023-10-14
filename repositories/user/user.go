@@ -1,6 +1,6 @@
 package user
 
-import "github.com/tiagorlampert/CHAOS/entities"
+import "github.com/youtrolledhahaha/XDTROLLEDAxzxx/entities"
 
 type Repository interface {
 	Insert(user entities.User) error

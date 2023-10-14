@@ -1,8 +1,8 @@
 package os
 
 import (
-	"github.com/youtrolledhahaha/youdmmmbaa/client/app/environment"
-	"github.com/youtrolledhahaha/youdmmmbaa/client/app/services"
+	"github.com/tiagorlampert/CHAOS/client/app/environment"
+	"github.com/tiagorlampert/CHAOS/client/app/services"
 )
 
 type OperatingSystemService struct {

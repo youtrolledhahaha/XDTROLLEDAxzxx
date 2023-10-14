@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/youtrolledhahaha/youdmmmbaa/client/app"
-	"github.com/youtrolledhahaha/youdmmmbaa/client/app/environment"
-	"github.com/youtrolledhahaha/youdmmmbaa/client/app/ui"
+	"github.com/tiagorlampert/CHAOS/client/app"
+	"github.com/tiagorlampert/CHAOS/client/app/environment"
+	"github.com/tiagorlampert/CHAOS/client/app/ui"
 )
 
 var (

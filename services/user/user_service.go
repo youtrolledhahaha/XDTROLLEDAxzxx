@@ -1,10 +1,10 @@
 package user
 
 import (
-	"github.com/youtrolledhahaha/youdmmmbaa/entities"
-	"github.com/youtrolledhahaha/youdmmmbaa/internal/utils/auth"
-	repo "github.com/youtrolledhahaha/youdmmmbaa/repositories"
-	"github.com/youtrolledhahaha/youdmmmbaa/repositories/user"
+	"github.com/tiagorlampert/CHAOS/entities"
+	"github.com/tiagorlampert/CHAOS/internal/utils/auth"
+	repo "github.com/tiagorlampert/CHAOS/repositories"
+	"github.com/tiagorlampert/CHAOS/repositories/user"
 )
 
 const (

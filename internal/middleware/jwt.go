@@ -3,9 +3,9 @@ package middleware
 import (
 	"github.com/appleboy/gin-jwt/v2"
 	"github.com/gin-gonic/gin"
-	"github.com/youtrolledhahaha/youdmmmbaa/entities"
-	jwtUtil "github.com/youtrolledhahaha/youdmmmbaa/internal/utils/jwt"
-	"github.com/youtrolledhahaha/youdmmmbaa/services/user"
+	"github.com/tiagorlampert/CHAOS/entities"
+	jwtUtil "github.com/tiagorlampert/CHAOS/internal/utils/jwt"
+	"github.com/tiagorlampert/CHAOS/services/user"
 	"net/http"
 	"time"
 )
@@ -16,7 +16,7 @@ type JWT struct {
 
 func NewJWTMiddleware(secretKey string, userService user.Service) (*JWT, error) {
 	middleware, err := jwt.New(&jwt.GinJWTMiddleware{
-		Realm:         "YOUSOCLEVERXD",
+		Realm:         "chaos",
 		Key:           []byte(secretKey),
 		Timeout:       time.Hour,
 		MaxRefresh:    time.Hour,

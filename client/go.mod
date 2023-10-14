@@ -1,4 +1,4 @@
-module github.com/youtrolledhahaha/youdmmmbaa/client
+module github.com/youtrolledhahaha/XDTROLLEDAxzxx/client
 
 go 1.18
 

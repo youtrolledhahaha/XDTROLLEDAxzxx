@@ -1,8 +1,8 @@
 package auth
 
 import (
-	"github.com/youtrolledhahaha/youdmmmbaa/entities"
-	"github.com/youtrolledhahaha/youdmmmbaa/repositories"
+	"github.com/tiagorlampert/CHAOS/entities"
+	"github.com/tiagorlampert/CHAOS/repositories"
 	"gorm.io/gorm"
 )
 

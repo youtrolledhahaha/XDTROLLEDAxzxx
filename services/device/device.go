@@ -1,7 +1,7 @@
 package device
 
 import (
-	"github.com/youtrolledhahaha/youdmmmbaa/entities"
+	"github.com/tiagorlampert/CHAOS/entities"
 )
 
 type Service interface {

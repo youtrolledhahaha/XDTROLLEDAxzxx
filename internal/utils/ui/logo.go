@@ -17,7 +17,7 @@ func ShowMenu(version, port string) {
  └%s┘
 `,
 		fillSpace("", "─"),
-		fillSpace(fmt.Sprintf("YOUSOCLEVERXD (%s)", version), " "),
+		fillSpace(fmt.Sprintf("CHAOS (%s)", version), " "),
 		fillSpace("http://127.0.0.1:"+port, " "),
 		fillSpace(fmt.Sprintf("by tiagorlampert (%d)", time.Now().UTC().Year()), " "),
 		fillSpace("", "─"),

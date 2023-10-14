@@ -2,9 +2,9 @@ package download
 
 import (
 	"fmt"
-	"github.com/youtrolledhahaha/youdmmmbaa/client/app/environment"
-	"github.com/youtrolledhahaha/youdmmmbaa/client/app/gateways"
-	"github.com/youtrolledhahaha/youdmmmbaa/client/app/services"
+	"github.com/tiagorlampert/CHAOS/client/app/environment"
+	"github.com/tiagorlampert/CHAOS/client/app/gateways"
+	"github.com/tiagorlampert/CHAOS/client/app/services"
 	"io/ioutil"
 	"net/http"
 	"os"

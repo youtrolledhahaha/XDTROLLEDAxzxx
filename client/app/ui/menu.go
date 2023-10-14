@@ -19,7 +19,7 @@ func ShowMenu(version, host, port string) {
  └%s┘
 `,
 		fillSpace("", "─"),
-		fillSpace(fmt.Sprintf("YOUSOCLEVERXD (%s)", version), " "),
+		fillSpace(fmt.Sprintf("CHAOS (%s)", version), " "),
 		fillSpace(host+port, " "),
 		fillSpace("", "─"),
 	)

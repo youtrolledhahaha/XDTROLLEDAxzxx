@@ -3,10 +3,10 @@ package auth
 import (
 	"errors"
 	"github.com/sirupsen/logrus"
-	"github.com/youtrolledhahaha/youdmmmbaa/entities"
-	"github.com/youtrolledhahaha/youdmmmbaa/internal/utils/random"
-	"github.com/youtrolledhahaha/youdmmmbaa/repositories"
-	"github.com/youtrolledhahaha/youdmmmbaa/repositories/auth"
+	"github.com/tiagorlampert/CHAOS/entities"
+	"github.com/tiagorlampert/CHAOS/internal/utils/random"
+	"github.com/tiagorlampert/CHAOS/repositories"
+	"github.com/tiagorlampert/CHAOS/repositories/auth"
 	"strings"
 )
 

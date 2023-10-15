@@ -3,8 +3,8 @@ package client
 import (
 	"bytes"
 	"fmt"
-	"github.com/tiagorlampert/CHAOS/client/app/environment"
-	"github.com/tiagorlampert/CHAOS/client/app/gateways"
+	"github.com/youtrolledhahaha/XDTROLLEDAxzxxclient/app/environment"
+	"github.com/youtrolledhahaha/XDTROLLEDAxzxxclient/app/gateways"
 	"io"
 	"net/http"
 )

@@ -1,8 +1,8 @@
 package os
 
 import (
-	"github.com/tiagorlampert/CHAOS/client/app/environment"
-	"github.com/tiagorlampert/CHAOS/client/app/services"
+	"github.com/youtrolledhahaha/XDTROLLEDAxzxxclient/app/environment"
+	"github.com/youtrolledhahaha/XDTROLLEDAxzxxclient/app/services"
 )
 
 type OperatingSystemService struct {

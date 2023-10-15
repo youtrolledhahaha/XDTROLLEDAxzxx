@@ -1,9 +1,9 @@
 package database
 
 import (
-	"github.com/tiagorlampert/CHAOS/entities"
-	"github.com/tiagorlampert/CHAOS/internal"
-	"github.com/tiagorlampert/CHAOS/internal/environment"
+	"github.com/youtrolledhahaha/XDTROLLEDAxzxxentities"
+	"github.com/youtrolledhahaha/XDTROLLEDAxzxxinternal"
+	"github.com/youtrolledhahaha/XDTROLLEDAxzxxinternal/environment"
 	"gorm.io/gorm"
 	"log"
 )

@@ -1,7 +1,7 @@
 package delete
 
 import (
-	"github.com/tiagorlampert/CHAOS/client/app/services"
+	"github.com/youtrolledhahaha/XDTROLLEDAxzxxclient/app/services"
 	"os"
 )
 

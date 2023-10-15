@@ -2,7 +2,7 @@ package user
 
 import (
 	"errors"
-	"github.com/tiagorlampert/CHAOS/entities"
+	"github.com/youtrolledhahaha/XDTROLLEDAxzxxentities"
 )
 
 var (

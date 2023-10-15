@@ -3,7 +3,7 @@ package url
 import (
 	"context"
 	"fmt"
-	"github.com/tiagorlampert/CHAOS/services/client"
+	"github.com/youtrolledhahaha/XDTROLLEDAxzxxservices/client"
 	"net/url"
 	"strings"
 )

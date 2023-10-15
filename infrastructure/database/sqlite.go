@@ -2,8 +2,8 @@ package database
 
 import (
 	"fmt"
-	"github.com/tiagorlampert/CHAOS/internal"
-	"github.com/tiagorlampert/CHAOS/internal/environment"
+	"github.com/youtrolledhahaha/XDTROLLEDAxzxxinternal"
+	"github.com/youtrolledhahaha/XDTROLLEDAxzxxinternal/environment"
 	"gorm.io/driver/sqlite"
 	"gorm.io/gorm"
 	"gorm.io/gorm/schema"

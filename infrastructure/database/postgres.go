@@ -3,7 +3,7 @@ package database
 import (
 	"database/sql"
 	_ "github.com/lib/pq"
-	"github.com/tiagorlampert/CHAOS/internal/environment"
+	"github.com/youtrolledhahaha/XDTROLLEDAxzxxinternal/environment"
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"
 	"gorm.io/gorm/schema"

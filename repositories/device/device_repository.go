@@ -2,8 +2,8 @@ package device
 
 import (
 	"errors"
-	"github.com/tiagorlampert/CHAOS/entities"
-	"github.com/tiagorlampert/CHAOS/repositories"
+	"github.com/youtrolledhahaha/XDTROLLEDAxzxxentities"
+	"github.com/youtrolledhahaha/XDTROLLEDAxzxxrepositories"
 	"gorm.io/gorm"
 	"time"
 )
